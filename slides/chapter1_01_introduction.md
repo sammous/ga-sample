@@ -72,8 +72,11 @@ Tree shaped diagram used to predict a target value by learning simple decision r
 
 # What is the Giny Impurity of the Windy node ?
 
-To calcute the Gini impurity of a node, we compute the weighted average of Gini impurities for the leaf nodes.
+To calculate the Gini impurity of a node, we compute the weighted average of Gini impurities for the leaf nodes.
 
+<p align="center">
+<img src="img_slide6.png" class="center" alt="slide1" width="60%">
+</p>
 <p align="center">
 <img src="img_slide7.png" class="center" alt="slide1" width="60%">
 </p>
@@ -91,7 +94,7 @@ To calcute the Gini impurity of a node, we compute the weighted average of Gini 
 # Once we choose one, we do the same for the left/right children nodes
 
 <p align="center">
-<img src="img_slide9.png" class="center" alt="slide1" width="60%">
+<img src="img_slide9.png" class="center" alt="slide1" width="40%">
 </p>
 
 ---
@@ -99,7 +102,7 @@ To calcute the Gini impurity of a node, we compute the weighted average of Gini 
 # But when do we stop ?
 
 <p align="center">
-<img src="img_slide10.png" class="center" alt="slide1" width="60%">
+<img src="img_slide10.png" class="center" alt="slide1" width="30%">
 </p>
 
 ---
@@ -107,7 +110,7 @@ To calcute the Gini impurity of a node, we compute the weighted average of Gini 
 # But when do we stop ?
 
 <p align="center">
-<img src="img_slide11.png" class="center" alt="slide1" width="60%">
+<img src="img_slide11.png" class="center" alt="slide1" width="30%">
 </p>
 
 ---
