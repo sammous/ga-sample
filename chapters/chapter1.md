@@ -44,7 +44,9 @@ Check the documentation of scikit-learn to build a DecisionTree classifier [here
 
 What is the Gini index of the *Hot* node ?
 
+<p align="center">
 <img src="gini.jpg" class="center" alt="giniex" width="80%">
+</p>
 
 <choice>
 

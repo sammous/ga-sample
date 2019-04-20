@@ -10,7 +10,9 @@ type: slides
 
 Tree shaped diagram used to predict a target value by learning simple decision rules inferred from the data features.
 
+<p align="center">
 <img src="img_slide1.png" class="center" alt="slide1" width="40%">
+</p>
 
 ---
 
@@ -23,7 +25,9 @@ Tree shaped diagram used to predict a target value by learning simple decision r
 | False | True  | False | True     |
 | False | False | False | True     |
 
+<p align="center">
 <img src="img_slide2.png" class="center" alt="slide1" width="30%">
+</p>
 
 ---
 
@@ -36,7 +40,9 @@ Tree shaped diagram used to predict a target value by learning simple decision r
 | False | True  | False | True     |
 | False | False | False | True     |
 
+<p align="center">
 <img src="img_slide3.png" class="center" alt="slide1" width="60%">
+</p>
 
 ---
 
