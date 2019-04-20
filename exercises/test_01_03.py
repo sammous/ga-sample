@@ -5,7 +5,7 @@ def test():
     # in the meta.json for details.
 
     # If an assertion fails, the message will be displayed
-    assert "print(DATA[0])" in __solution__, "Are you printing the first record?"
-    assert some_var == len(DATA), "Are you getting the correct length?"
-
-    __msg__.good("Well done!")
+    assert "max_depth=3" in __solution__, "Are you setting the max depth to 3 for your Decision Tree ?"
+    assert "train_test_split(X, Y, test_size=0.3, random_state=100)" in __solution__, "Are you setting correctly the test_size and random_state parameter ?"
+    assert accuracy == 69, "Are you sure you computed correctly the accuracy?"
+    __msg__.good("Well done! You managed to code your first Decision Tree!")

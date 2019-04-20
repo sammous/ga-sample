@@ -18,32 +18,29 @@ This chapter requires the following concepts/basics :
 
 </exercise>
 
-<exercise id="1" title="Lesson" type="slides">
+<exercise id="2" title="Lesson" type="slides">
 
 <slides source="chapter1_01_introduction">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="3" title="Some coding practice">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+In this exercise, you will build your first _Decision Tree_ classifier using the `scikit-learn` and `pandas` libraries.
 
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
+To test your implementations, you can click on the **Run Code** button anytime. Once you want to test your implementation, you
+can submit it by clicking on the **Submit** button.
 
 <codeblock id="01_03">
 
-This is a hint.
+Check the documentation of scikit-learn to build a DecisionTree classifier [here](https://scikit-learn.org/stable/modules/tree.html).
 
 </codeblock>
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="4" title="Wrapping up">
 Let's ask some questions about the slides. Whats the correct answer?
 
 <choice>
