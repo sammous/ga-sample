@@ -24,7 +24,7 @@ clf = ____
 clf.____
 
 # Predict on the test data
-y_pred_en = ____
+y_pred = ____
 
 # Compute the accuracy score and round 
 accuracy = int(____ * 100)
