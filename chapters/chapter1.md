@@ -40,7 +40,7 @@ Check the documentation of scikit-learn to build a DecisionTree classifier [here
 
 </exercise>
 
-<exercise id="4" title="Quizz 1">
+ <exercise id="4" title="Quizz 1">
 
 What is the Gini index of the *Hot* node ?
 
