@@ -141,3 +141,7 @@ To calcute the Gini impurity of a node, we compute the weighted average of Gini 
 | blue | False |
 
 - Calculate the Gini impurity for each one as well as for each possible combination except for the one with every color choice.
+
+---
+
+# Now, let's practice!
