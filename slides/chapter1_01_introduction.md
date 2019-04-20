@@ -14,10 +14,16 @@ Tree shaped diagram used to predict a target value by learning simple decision r
 
 ---
 
-# Let's practice!
+# From a table to a decision tree
 
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
+| Windy | Sunny | Hot   | Won Game |
+|-------|-------|-------|----------|
+| False | False | True  | False    |
+| True  | True  | True  | False    |
+| False | True  | False | True     |
+| False | False | False | True     |
+
+<img src="img_slide2.png" class="center" alt="slide1" width="80%">
+
+---
+

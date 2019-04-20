@@ -8,7 +8,7 @@ type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Requirements" type="slides">
+<exercise id="1" title="Requirements">
 
 This chapter requires the following concepts/basics :
 - Introduction to machine learning
