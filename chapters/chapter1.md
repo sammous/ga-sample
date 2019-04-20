@@ -64,3 +64,13 @@ Don't forget to calculate the weighted average of both Gini impurity of the leaf
 </choice>
 
 </exercise>
+
+<exercise id="5" title="Next lesson">
+
+Now that we have seen the basics of a decision tree, even though it is simple to compute, it comes with some disadvantages :
+
+- It is easily prone to overfitting
+- If the data has a high variance, then the model can get unstable
+- Complicated decision trees tend to get a low bias, which makes it harder to work with new data
+
+</exercise>
