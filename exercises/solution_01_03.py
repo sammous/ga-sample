@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from sklearn import tree
 
-df = pd.read_csv('exercises/titanic-train.csv').dropna()
+df = pd.read_csv('exercises/titanic.csv').dropna()
 
 # Select the following three features : Sex, Age and Fare
 X = df[['Sex', 'Age', 'Fare']]
