@@ -2,31 +2,15 @@
 type: slides
 ---
 
-# Introduction
-
-Notes: Text at the end of a slide prefixed like this will be displayed as
-speaker notes on the side. Slides can be separated with a divider: ---.
+# Introduction to Decision Trees
 
 ---
 
-# This is a slide
+# What is a Decision Tree ?
 
-```python
-# Print something
-print("Hello world")
-```
+Tree shaped diagram used to predict a target value by learning simple decision rules inferred from the data features.
 
-```out
-Hello world
-```
-
-- Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements.
-- This is another bullet point.
-
-<img src="profile.jpg" alt="This image is in /static" width="25%">
-
-Notes: Some more notes go here
+<img src="img_slide1.png" class="center" alt="slide1" width="80%">
 
 ---
 

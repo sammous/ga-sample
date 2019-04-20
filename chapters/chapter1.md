@@ -41,25 +41,26 @@ Check the documentation of scikit-learn to build a DecisionTree classifier [here
 </exercise>
 
 <exercise id="4" title="Wrapping up">
-Let's ask some questions about the slides. Whats the correct answer?
+Let's ask some questions about the slides before wrapping up.
+
+What is the Gini index of the *Hot* node ?
+
+<img src="gini.jpg" class="center" alt="giniex" width="80%">
 
 <choice>
-<opt text="Answer one">
 
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
+<opt text="0.28" correct="true">
 
 Good job!
 
 </opt>
 
-<opt text="Answer three">
+<opt text="0.52">
 
-This is not correct either.
+Don't forget to calculate the weighted average of both Gini impurity of the leaf nodes.
 
 </opt>
+
 </choice>
+
 </exercise>
