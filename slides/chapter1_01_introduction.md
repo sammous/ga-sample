@@ -102,7 +102,7 @@ To calculate the Gini impurity of a node, we compute the weighted average of Gin
 # But when do we stop ?
 
 <p align="center">
-<img src="img_slide10.png" class="center" alt="slide1" width="20%">
+<img src="img_slide10.png" class="center" alt="slide1" width="30%">
 </p>
 
 ---
@@ -110,7 +110,7 @@ To calculate the Gini impurity of a node, we compute the weighted average of Gin
 # But when do we stop ?
 
 <p align="center">
-<img src="img_slide11.png" class="center" alt="slide1" width="20%">
+<img src="img_slide11.png" class="center" alt="slide1" width="31%">
 </p>
 
 ---
