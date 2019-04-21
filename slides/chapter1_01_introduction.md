@@ -145,6 +145,10 @@ To calculate the Gini impurity of a node, we compute the weighted average of Gin
 
 - Calculate the Gini impurity for each one as well as for each possible combination except for the one with every color choice.
 
+<p align="center">
+<img src="img_slide13.png" class="center" alt="slide1" width="40%">
+</p>
+
 ---
 
 # Now, let's practice!
