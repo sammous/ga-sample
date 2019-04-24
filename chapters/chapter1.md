@@ -74,6 +74,6 @@ Now that we have seen the basics of a decision tree, even though it is simple to
 - If the data has a high variance, then the model can get unstable
 - Complicated decision trees tend to get a low bias, which makes it harder to work with new data
 
-To remedy this, we will introduce next the concepts of bagging and boosting and see two more type of classifier : Adaboost and RandomForest.
+To remedy this, we will introduce next the concepts of bagging and boosting and see two more types of classifiers : Adaboost and RandomForest.
 
 </exercise>
